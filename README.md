@@ -1,6 +1,6 @@
 # base_template
 
-A new Flutter project.
+Mathematics app. Get better at mathematics for real.
 
 ## Getting Started
 
