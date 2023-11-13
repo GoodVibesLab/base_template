@@ -1,6 +1,6 @@
 # base_template
 
-Mathematics app. Get better at mathematics for real.
+A base template for my Flutter projects. Reuse at your own will.
 
 ## Getting Started
 

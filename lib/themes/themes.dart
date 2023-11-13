@@ -16,6 +16,3 @@ ThemeData buildTheme(brightness) {
     ),
   );
 }
-
-Color deltaOrange = const Color(0xFFff5f11);
-Color deltaOrangeLight = const Color(0xFFffa011);
